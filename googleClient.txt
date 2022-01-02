@@ -1,0 +1,5 @@
+Your Client ID
+22248038119-qi51n2a0ue5q74l90sq3qtubgut5sdne.apps.googleusercontent.com
+
+Your Client Secret
+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
